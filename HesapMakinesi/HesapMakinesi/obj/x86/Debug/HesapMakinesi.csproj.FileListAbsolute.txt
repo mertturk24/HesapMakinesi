@@ -1,0 +1,11 @@
+C:\Users\meita\AppData\Local\Temporary Projects\HesapMakinesi\bin\Debug\HesapMakinesi.exe
+C:\Users\meita\AppData\Local\Temporary Projects\HesapMakinesi\bin\Debug\HesapMakinesi.pdb
+C:\Users\meita\AppData\Local\Temporary Projects\HesapMakinesi\obj\x86\Debug\HesapMakinesi.Form1.resources
+C:\Users\meita\AppData\Local\Temporary Projects\HesapMakinesi\obj\x86\Debug\HesapMakinesi.Properties.Resources.resources
+C:\Users\meita\AppData\Local\Temporary Projects\HesapMakinesi\obj\x86\Debug\HesapMakinesi.csproj.GenerateResource.Cache
+C:\Users\meita\AppData\Local\Temporary Projects\HesapMakinesi\obj\x86\Debug\HesapMakinesi.exe
+C:\Users\meita\AppData\Local\Temporary Projects\HesapMakinesi\obj\x86\Debug\HesapMakinesi.pdb
+C:\Users\meita\onedrive\belgeler\visual studio 2010\Projects\HesapMakinesi\HesapMakinesi\obj\x86\Debug\HesapMakinesi.exe
+C:\Users\meita\onedrive\belgeler\visual studio 2010\Projects\HesapMakinesi\HesapMakinesi\obj\x86\Debug\HesapMakinesi.pdb
+C:\Users\meita\OneDrive\Masaüstü\Visual Basic\HesapMakinesi\HesapMakinesi\obj\x86\Debug\HesapMakinesi.exe
+C:\Users\meita\OneDrive\Masaüstü\Visual Basic\HesapMakinesi\HesapMakinesi\obj\x86\Debug\HesapMakinesi.pdb
